@@ -8,7 +8,7 @@
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
                     <router-link to="/agenda" activeClass="active" tag="li"><a>Agenda</a></router-link>
-                    <router-link to="/contactos" activeClass="active" tag="li"><a>Contactos</a></router-link>
+                    <router-link to="/contactos" activeClass="active" tag="li"><a>Ver Contactos</a></router-link>
                 </ul>
                 
                 <ul class="nav navbar-nav navbar-right">
